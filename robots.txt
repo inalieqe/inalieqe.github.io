@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inalieqe.github.io/Gos/sitemap_index.txt
+Sitemap: https://inalieqe.github.io/JOj/sitemap_index.txt
+Sitemap: https://inalieqe.github.io/QBq/sitemap_index.txt
+Sitemap: https://inalieqe.github.io/mOa/sitemap_index.txt
